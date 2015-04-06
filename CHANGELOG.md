@@ -1,3 +1,6 @@
+## 1.3.2.1 (April 6, 2015)
+  - Added pikaday-js jquery plugin
+ 
 ## 1.3.2 (April 6, 2015)
   - Added pikaday-js version 1.3.2
   - Added new themes for css
